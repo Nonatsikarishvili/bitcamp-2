@@ -1,0 +1,105 @@
+.container{
+	max-width: 350px;
+	width: 100%;
+	margin: 152px auto;
+	border-radius: 15px;
+	background-color: #15263F;
+	padding-top: 24px;
+
+/*	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;*/
+
+
+}
+body{
+	background-color: #0D192C;
+}
+.image-box{
+	max-width: 302px;
+	max-height: 302px;
+	margin: auto;
+	margin-bottom: 24px;
+	
+}
+img{
+	max-width: 302px;
+	max-height: 302px;
+	border-radius: 8px;
+
+}
+h1{
+	max-width: 302px;
+	font-size: 22px;
+	color: #FFFFFF;
+	font-weight: 600;
+	line-height: 28px;
+	margin: auto;
+
+}
+.main-div > p{
+	max-width: 302px;
+	font-size: 18px;
+	color: #8BACD9;
+	font-weight: 300;
+	line-height: 26px;
+	margin: auto;
+	margin-top: 16px;
+	margin-bottom: 24px;
+
+}
+.small-box{
+	max-width: 302px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.etereum,
+.clock{
+	display: flex;
+	align-items: center;
+}
+.etereum p{
+	font-size: 16px;
+	color: #00FFF8;
+	font-weight: 600;
+	line-height: 20.16px;
+	margin-left: 6.48px;
+}
+.clock p{
+	font-size: 16px;
+	color: #8BACD9;
+	font-weight: 300;
+	line-height: 20.16px;
+	margin-left: 9.03px;
+}
+.devider{
+	margin: auto;
+	max-width: 302px;
+	height: 2px;
+	margin-top: 24px;
+	margin-bottom: 22px;
+	background-color: #2E405A;
+}
+.last{
+	max-width: 302px;
+	margin: auto;
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	padding-bottom: 32px;
+}
+.last p{
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: 400;
+	line-height: 20.16px;
+	margin-left: 16px;
+
+}
+span{
+	color: #8BACD9;
+	margin-right: 5px;
+}
